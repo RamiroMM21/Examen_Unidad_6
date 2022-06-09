@@ -1,0 +1,12 @@
+Nombre: Xbox Series X
+Descripción: Consola de videojuegos
+Precio: 12000
+Cantidad: 10
+Nombre: Geforce RTX 3090
+Descripción: Tarjeta Grafica
+Precio: 59999
+Cantidad: 4
+Nombre: Intel Core I9 12000f
+Descripción: Procesador intel de 9 nucleos
+Precio: 12000
+Cantidad: 6

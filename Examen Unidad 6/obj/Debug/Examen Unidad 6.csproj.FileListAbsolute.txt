@@ -1,0 +1,7 @@
+C:\Users\AERO COOL\Documents\GitHub\Examen_Unidad_6\Examen Unidad 6\bin\Debug\Examen Unidad 6.exe.config
+C:\Users\AERO COOL\Documents\GitHub\Examen_Unidad_6\Examen Unidad 6\bin\Debug\Examen Unidad 6.exe
+C:\Users\AERO COOL\Documents\GitHub\Examen_Unidad_6\Examen Unidad 6\bin\Debug\Examen Unidad 6.pdb
+C:\Users\AERO COOL\Documents\GitHub\Examen_Unidad_6\Examen Unidad 6\obj\Debug\Examen Unidad 6.csproj.AssemblyReference.cache
+C:\Users\AERO COOL\Documents\GitHub\Examen_Unidad_6\Examen Unidad 6\obj\Debug\Examen Unidad 6.csproj.CoreCompileInputs.cache
+C:\Users\AERO COOL\Documents\GitHub\Examen_Unidad_6\Examen Unidad 6\obj\Debug\Examen Unidad 6.exe
+C:\Users\AERO COOL\Documents\GitHub\Examen_Unidad_6\Examen Unidad 6\obj\Debug\Examen Unidad 6.pdb
